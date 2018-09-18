@@ -1,1 +1,1 @@
-hello my name is Petrus and i am new to web development
+hello my name is Petrus and i am new to web development. I love programming
